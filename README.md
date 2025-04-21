@@ -1,4 +1,4 @@
-## What is the Big Five?
+# What is the Big Five?
 
 The **Big Five** is one of the most scientifically accepted models of personality psychology. It says that our personalities can be described using **five broad traits**:
 
